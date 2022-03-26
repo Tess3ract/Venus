@@ -1,4 +1,4 @@
-AUDIENCE 
-
+AUDIENCE WOPWOP
+==========================================
 This course is for anyone who wants to learn Git. 
-No prior experience is required.Moritz Niederer
+Moritz Niederer
