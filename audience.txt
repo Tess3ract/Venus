@@ -2,3 +2,5 @@ AUDIENCE WOPWOP
 ==========================================
 This course is for anyone who wants to learn Git. 
 Moritz Niederer
+bugfix
+Pauline
