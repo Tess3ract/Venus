@@ -4,5 +4,7 @@ Creating Snapshots
   - Initializing a repository
   - Staging changes
 
-  -Let's make a calendarhello
+  -Let's make a calendar
+hello
 ocean
+Ich liebe meinen Olivenbaum!
